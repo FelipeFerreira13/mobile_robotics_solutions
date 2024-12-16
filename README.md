@@ -4,6 +4,8 @@ This library provides a comprehensive collection of algorithms and solutions for
 
 The project can be installed through VIPM using the file **felipe_ferreira_lib_mobile_robotics_solutions-x.x.x.x.vip**
 
+The Library Tutorial can be found here: http://www.youtube.com/@FelipeFerreira-jt5ci
+
 ## CONTACT
 If you need support or have any suggestions or proposals please let me know:
 
